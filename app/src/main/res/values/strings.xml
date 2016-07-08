@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FoodPandaTest</string>
+    <string name="min_orders"> orders min</string>
+</resources>
